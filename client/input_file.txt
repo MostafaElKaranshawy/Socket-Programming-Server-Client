@@ -1,0 +1,3 @@
+client_get 1.txt 127.0.0.1
+client_get 1.png 127.0.0.1
+close
